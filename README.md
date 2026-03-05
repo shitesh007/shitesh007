@@ -1,31 +1,118 @@
-<h1 align="center">Hi 👋, I'm shitesh kumar</h1>
-<h3 align="center">"🎓 Computer Science Student | Python Developer | Exploring Web Dev, Data Analytics & Generative AI"</h3>
+# Hi, I'm Shitesh Kumar 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shitesh007&label=Profile%20views&color=0e75b6&style=flat" alt="shitesh007" /> </p>
+🎓 B.Tech Student at Sage University, Bhopal  
+💻 Developer passionate about building intelligent systems and scalable web applications  
+🚀 Interested in AI-powered systems, data analytics, and modern web development.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shitesh007" alt="shitesh007" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+# 🚀 Tech Stack
 
-- 🌱 I’m currently learning **python C++ react**
+### Programming Languages
+- C
+- C++
+- Python
+- JavaScript (ReactJS)
 
-- 👨‍💻 All of my projects are available at [https://github.com/shitesh007](https://github.com/shitesh007)
+### Frameworks & Technologies
+- Django
+- ReactJS
+- MySQL
+- CLI (Command Line Interface)
 
-- 📫 How to reach me **sitesh9334@gmail.com**
+### Tools & Platforms
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- Power BI
+- Docker
+- Google Cloud
+- LM Studio
+- OpenAI API
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shitesh-kumar-780564332/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shitesh-kumar-780564332/" height="30" width="40" /></a>
-<a href="https://fb.com/ssbrand sidhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ssbrand sidhi" height="30" width="40" /></a>
-<a href="https://instagram.com/the_shidhi_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_shidhi_007" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@sitesh9334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sitesh9334" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+# 📌 Featured Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shitesh007&show_icons=true&locale=en&layout=compact" alt="shitesh007" /></p>
+## 🎓 University Academic System
+A web-based system designed to manage university academic activities such as student records, courses, and academic data efficiently.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shitesh007&show_icons=true&locale=en" alt="shitesh007" /></p>
+**Tech Used:** Python, Django, MySQL  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shitesh007&" alt="shitesh007" /></p>
+🔗 **Repository:**  
+https://github.com/shitesh007/university_Academics_system
+
+---
+
+## 🧠 Personalized Learning System
+An intelligent learning platform that analyzes productivity patterns and learning behavior to create personalized learning paths and improve study efficiency.
+
+**Tech Used:** Python, Django, ReactJS, Data Analytics  
+
+🔗 **Repository:**  
+https://github.com/shitesh007/Personalize_Learning_System
+
+---
+
+## 📊 Digital Distraction KPI Analysis
+A data analytics project that analyzes datasets related to student productivity and digital distractions to generate KPI reports and insights.
+
+**Tech Used:** Python, Jupyter Notebook, Power BI  
+
+🔗 **Repository:**  
+https://github.com/shitesh007/report-of-Student-Productivity-Digital-Distraction
+
+---
+
+## 📚 Library Management System
+A system designed to manage library operations such as book records, issue/return tracking, and student data management.
+
+**Tech Used:** Python / C++, MySQL  
+
+🔗 **Repository:**  
+https://github.com/shitesh007/library_management_system
+
+---
+
+## 💼 LinkedIn Clone
+A web application inspired by LinkedIn that focuses on professional networking features such as user profiles and content posting.
+
+**Tech Used:** ReactJS, JavaScript  
+
+🔗 **Repository:**  
+https://github.com/shitesh007/Linkedln-clone
+
+---
+
+
+---
+
+# 🏆 Achievements
+
+- Participated in Hackathons and collaborative development events  
+- Built multiple real-world development projects  
+- Developed data analytics dashboards using Power BI  
+- Actively maintaining project repositories on GitHub  
+- Continuously learning AI, cloud platforms, and modern development tools
+
+---
+
+# 📈 GitHub Stats
+
+![Shitesh's GitHub stats](https://github-readme-stats.vercel.app/api?Shitesh007=Shitesh007&show_icons=true)
+
+---
+leetcode : https://leetcode.com/u/shitesh007/
+
+hackerrank  : https://www.hackerrank.com/profile/sitesh9334
+codeforces : https://codeforces.com/profile/shidhi__007
+instagram : 
+# 📫 Connect With Me
+
+💻 GitHub: https://github.com/shitesh007
+🔗 LinkedIn:https://www.linkedin.com/in/shitesh-kumar-780564332/
+
+---
+
+⭐ *Always learning, building, and improving.*
